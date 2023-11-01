@@ -1,4 +1,7 @@
-### Hi there 👋
+![nobreguinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobreguinha&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobreguinha)](https://github.com/zeynabmvs/github-readme-stats)
+
 
 <!--
 **nobreguinha/nobreguinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
