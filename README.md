@@ -1,7 +1,10 @@
-⚡ Hi everyone, I'm Nill!
-I'm a studend
-Thanks for stopping by
-Have a great day! 👋🏻
+
+ ⚡ Hi everyone, I'm Nill!
+- Thanks for stopping by
+- Have a great day! 👋🏻
+- 
+- 
+
 ![nobreguinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobreguinha&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobreguinha)](https://github.com/zeynabmvs/github-readme-stats)
