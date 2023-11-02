@@ -1,7 +1,7 @@
 
  ⚡ Hi everyone, I'm Nill!
-- Thanks for stopping by
-- Have a great day! 👋🏻
+ Thanks for stopping by
+ Have a great day! 👋🏻
 - 
 - 
 
