@@ -1,7 +1,7 @@
  ⚡ Hi everyone, I'm Nill!
 - I'm a student
 - web development
-  👋🏻 Thanks for stopping by, Have a great day! 👋🏻
+- Thanks for stopping by, Have a great day! 👋🏻
 
 ![nobreguinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobreguinha&show_icons=true&theme=radical)
 
