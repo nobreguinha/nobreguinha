@@ -2,7 +2,6 @@
 - Thanks for stopping by, have a great day! 👋🏻
 
 ![nobreguinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobreguinha&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobreguinha&hide_progress=true&theme=dark)
  
 <h3 align="left">Languages and Tools:</h3>
